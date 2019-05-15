@@ -14,8 +14,8 @@ Steps:
 - Add a shopping cart to a Next.js app
 - Style & deploy the app
 
-> Read the full tutorial [here](https://snipcart.com/blog/next-js-ecommerce-tutorial)
+> [Read the full tutorial](https://snipcart.com/blog/next-js-ecommerce-tutorial)
 
-> See the live demo [here](https://snipcart-nextjs.herokuapp.com/)
+> [See the live demo](https://snipcart-nextjs.herokuapp.com/)
 
 Enjoy folks!
